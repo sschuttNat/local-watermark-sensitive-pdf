@@ -81,7 +81,3 @@ The watermark is added as a vector layer on top of the page. Someone with PDF ed
 ## Contributing
 
 Ideas, issues and pull requests are welcome. Keep it simple: the goal is a small tool anyone can use and trust.
-
-## License
-
-[MIT](LICENSE)
