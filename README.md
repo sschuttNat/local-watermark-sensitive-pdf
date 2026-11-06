@@ -25,7 +25,16 @@ This project does the job **100% locally**, with a dead-simple interface.
 
 - Python **3.9+**
 
-## Quick start
+## Easy install (macOS, no technical knowledge needed)
+
+1. Install **Python** from [python.org/downloads](https://www.python.org/downloads/macos/) if you don't have it (the launcher will tell you if it's missing).
+2. On this page, click the green **Code** button → **Download ZIP**, then double-click the ZIP to unzip it.
+3. Open the folder and **right-click `start.command` → Open**, then confirm *Open* (macOS asks only the first time).
+4. The first launch takes about a minute to set up. Your browser then opens the app.
+
+Next times, just **double-click `start.command`**. Keep the Terminal window open while using the app, and close it to stop the app.
+
+## Quick start (developers)
 
 ```bash
 git clone https://github.com/sschuttNat/local-watermark-sensitive-pdf.git
